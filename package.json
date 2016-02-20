@@ -4,7 +4,7 @@
   "description": "MongoDB database adapter for livedb",
   "main": "mongo.js",
   "dependencies": {
-    "async": "1.5.2",
+    "async": "^0.9",
     "mongoskin": "2.0.3"
   },
   "devDependencies": {
